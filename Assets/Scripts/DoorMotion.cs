@@ -14,11 +14,13 @@ public class DoorMotion : MonoBehaviour
 
     public void Open()
     {
+       
         animator.SetBool("isOpen", true);
     }
 
     public void Close()
     {
+       
         animator.SetBool("isOpen", false);
     }
 }

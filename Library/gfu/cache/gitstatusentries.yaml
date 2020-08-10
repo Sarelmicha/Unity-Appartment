@@ -13,12 +13,471 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-07T09:49:31.658+03:00
-  initializedAtString: 2020-08-07T09:49:31.658+03:00
+  lastUpdatedAtString: 2020-08-10T21:28:58.708+03:00
+  initializedAtString: 2020-08-10T21:27:23.836+03:00
   entries:
-  - path: Library\EditorInstance.json
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Animation\Controllers\Door Axis.controller
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\Controllers\Door
+      Axis.controller
+    projectPath: Assets\Animation\Controllers\Door Axis.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Animation\Controllers\Slider Door.controller
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\Controllers\Slider
+      Door.controller
+    projectPath: Assets\Animation\Controllers\Slider Door.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\Controllers\Slider Door.controller.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\Controllers\Slider
+      Door.controller.meta
+    projectPath: Assets\Animation\Controllers\Slider Door.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Axis Door.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
+      Door.meta
+    projectPath: Assets\Animation\DoorAnimations\Axis Door.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Axis Door\Close.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
+      Door\Close.anim
+    projectPath: Assets\Animation\DoorAnimations\Axis Door\Close.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Axis Door\Close.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
+      Door\Close.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Axis Door\Close.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Axis Door\Open.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
+      Door\Open.anim
+    projectPath: Assets\Animation\DoorAnimations\Axis Door\Open.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Axis Door\Open.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
+      Door\Open.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Axis Door\Open.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Close.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Close.anim
+    projectPath: Assets\Animation\DoorAnimations\Close.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Animation\DoorAnimations\Close.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Close.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Close.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Animation\DoorAnimations\Open.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Open.anim
+    projectPath: Assets\Animation\DoorAnimations\Open.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Animation\DoorAnimations\Open.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Open.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Open.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Animation\DoorAnimations\Slider Door.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door.meta
+    projectPath: Assets\Animation\DoorAnimations\Slider Door.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door\Balcony Door.controller
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door\Balcony Door.controller.meta
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Slider Door\Close.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door\Close.anim
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Close.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Slider Door\Close.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door\Close.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Close.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Slider Door\Open.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door\Open.anim
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Open.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\DoorAnimations\Slider Door\Open.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
+      Door\Open.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Open.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\DoorMotion.cs
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\DoorMotion.cs
+    projectPath: Assets\Scripts\DoorMotion.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\TriggerDoor.cs
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\TriggerDoor.cs
+    projectPath: Assets\Scripts\TriggerDoor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\StoneFence.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence.meta
+    projectPath: Assets\StoneFence.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Materials.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials.meta
+    projectPath: Assets\StoneFence\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Materials\StoneFence01.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence01.mat
+    projectPath: Assets\StoneFence\Materials\StoneFence01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Materials\StoneFence01.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence01.mat.meta
+    projectPath: Assets\StoneFence\Materials\StoneFence01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Materials\StoneFence02.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence02.mat
+    projectPath: Assets\StoneFence\Materials\StoneFence02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Materials\StoneFence02.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence02.mat.meta
+    projectPath: Assets\StoneFence\Materials\StoneFence02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes.meta
+    projectPath: Assets\StoneFence\Meshes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx.meta
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx.meta
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx.meta
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx.meta
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx.meta
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx.meta
+    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs.meta
+    projectPath: Assets\StoneFence\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab.meta
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab.meta
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab.meta
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab.meta
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab.meta
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab.meta
+    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\readme.rtf
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\readme.rtf
+    projectPath: Assets\StoneFence\readme.rtf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\readme.rtf.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\readme.rtf.meta
+    projectPath: Assets\StoneFence\readme.rtf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures.meta
+    projectPath: Assets\StoneFence\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence01.tga
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01.tga
+    projectPath: Assets\StoneFence\Textures\StoneFence01.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence01.tga.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01.tga.meta
+    projectPath: Assets\StoneFence\Textures\StoneFence01.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence01_n.tga
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01_n.tga
+    projectPath: Assets\StoneFence\Textures\StoneFence01_n.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence01_n.tga.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01_n.tga.meta
+    projectPath: Assets\StoneFence\Textures\StoneFence01_n.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence02.tga
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02.tga
+    projectPath: Assets\StoneFence\Textures\StoneFence02.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence02.tga.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02.tga.meta
+    projectPath: Assets\StoneFence\Textures\StoneFence02.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence02_n.tga
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02_n.tga
+    projectPath: Assets\StoneFence\Textures\StoneFence02_n.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StoneFence\Textures\StoneFence02_n.tga.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02_n.tga.meta
+    projectPath: Assets\StoneFence\Textures\StoneFence02_n.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Toon Furniture\Materials\BookCase_1_1.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Toon Furniture\Materials\BookCase_1_1.mat
+    projectPath: Assets\Toon Furniture\Materials\BookCase_1_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Toon Furniture\Materials\BookCase_1_1.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Toon Furniture\Materials\BookCase_1_1.mat.meta
+    projectPath: Assets\Toon Furniture\Materials\BookCase_1_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\assetDatabase3
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,9 +487,135 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\75918c-mainStage.json
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\StateCache\Hierarchy\75918c-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\75918c-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\276b85-mainStage.json
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\StateCache\SceneView\276b85-mainStage.json
+    projectPath: Library\StateCache\SceneView\276b85-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

@@ -10,7 +10,7 @@ public class TriggerDoor : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-       
+        
         doorAxis.GetComponent<DoorMotion>().Open();
     }
 
