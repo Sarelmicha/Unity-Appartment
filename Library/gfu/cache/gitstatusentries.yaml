@@ -13,18 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-10T21:28:58.708+03:00
-  initializedAtString: 2020-08-10T21:27:23.836+03:00
+  lastUpdatedAtString: 2020-09-11T15:37:34.741+03:00
+  initializedAtString: 2020-09-11T14:23:50.918+03:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,19 +34,17 @@ MonoBehaviour:
       Door.controller
     projectPath: Assets\Animation\Controllers\Slider Door.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animation\Controllers\Slider Door.controller.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\Controllers\Slider
-      Door.controller.meta
-    projectPath: Assets\Animation\Controllers\Slider Door.controller.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Animation\Controllers\Target.controller
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\Controllers\Target.controller
+    projectPath: Assets\Animation\Controllers\Target.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Axis Door.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
-      Door.meta
-    projectPath: Assets\Animation\DoorAnimations\Axis Door.meta
+  - path: Assets\Animation\Controllers\Target.controller.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\Controllers\Target.controller.meta
+    projectPath: Assets\Animation\Controllers\Target.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -61,12 +53,19 @@ MonoBehaviour:
       Door\Close.anim
     projectPath: Assets\Animation\DoorAnimations\Axis Door\Close.anim
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Animation\DoorAnimations\Axis Door\Idle.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
+      Door\Idle.anim
+    projectPath: Assets\Animation\DoorAnimations\Axis Door\Idle.anim
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Axis Door\Close.anim.meta
+  - path: Assets\Animation\DoorAnimations\Axis Door\Idle.anim.meta
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
-      Door\Close.anim.meta
-    projectPath: Assets\Animation\DoorAnimations\Axis Door\Close.anim.meta
+      Door\Idle.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Axis Door\Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -75,85 +74,518 @@ MonoBehaviour:
       Door\Open.anim
     projectPath: Assets\Animation\DoorAnimations\Axis Door\Open.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Axis Door\Open.anim.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Axis
-      Door\Open.anim.meta
-    projectPath: Assets\Animation\DoorAnimations\Axis Door\Open.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Close.anim
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Close.anim
-    projectPath: Assets\Animation\DoorAnimations\Close.anim
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\DoorAnimations\Close.anim.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Close.anim.meta
-    projectPath: Assets\Animation\DoorAnimations\Close.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\DoorAnimations\Open.anim
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Open.anim
-    projectPath: Assets\Animation\DoorAnimations\Open.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\DoorAnimations\Open.anim.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Open.anim.meta
-    projectPath: Assets\Animation\DoorAnimations\Open.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Animation\DoorAnimations\Slider Door.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
-      Door.meta
-    projectPath: Assets\Animation\DoorAnimations\Slider Door.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 3
   - path: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
       Door\Balcony Door.controller
     projectPath: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller.meta
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
       Door\Balcony Door.controller.meta
     projectPath: Assets\Animation\DoorAnimations\Slider Door\Balcony Door.controller.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Slider Door\Close.anim
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Animation\DoorAnimations\Slider Door\Idle.anim
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
-      Door\Close.anim
-    projectPath: Assets\Animation\DoorAnimations\Slider Door\Close.anim
+      Door\Idle.anim
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Idle.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Slider Door\Close.anim.meta
+  - path: Assets\Animation\DoorAnimations\Slider Door\Idle.anim.meta
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
-      Door\Close.anim.meta
-    projectPath: Assets\Animation\DoorAnimations\Slider Door\Close.anim.meta
+      Door\Idle.anim.meta
+    projectPath: Assets\Animation\DoorAnimations\Slider Door\Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Slider Door\Open.anim
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
-      Door\Open.anim
-    projectPath: Assets\Animation\DoorAnimations\Slider Door\Open.anim
+  - path: Assets\Animation\TargetAnimations.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\TargetAnimations.meta
+    projectPath: Assets\Animation\TargetAnimations.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Animation\DoorAnimations\Slider Door\Open.anim.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\DoorAnimations\Slider
-      Door\Open.anim.meta
-    projectPath: Assets\Animation\DoorAnimations\Slider Door\Open.anim.meta
+  - path: Assets\Animation\TargetAnimations\Idle.anim
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\TargetAnimations\Idle.anim
+    projectPath: Assets\Animation\TargetAnimations\Idle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animation\TargetAnimations\Idle.anim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Animation\TargetAnimations\Idle.anim.meta
+    projectPath: Assets\Animation\TargetAnimations\Idle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan.meta
+    projectPath: Assets\FreeAnimatedSpaceMan.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Idle.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Idle.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Idle.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Idle.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Idle.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Idle.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Back.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Back.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Back.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Back.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Back.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Back.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Left.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Left.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Left.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Left.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Left.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Left.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Right.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Right.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Right.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Right.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Right.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_legacy\Run_Right.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Idle.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Idle.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Idle.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Idle.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Idle.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Idle.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_back.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_back.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_back.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_back.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_back.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_back.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Left.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Left.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Left.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Left.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Left.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Left.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Right.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Right.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Right.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Right.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Right.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\Run_Right.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\space_man_controller.controller
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\space_man_controller.controller
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\space_man_controller.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\animations_mecanim\space_man_controller.controller.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\animations_mecanim\space_man_controller.controller.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\animations_mecanim\space_man_controller.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\Plane.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\Plane.mat
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\Plane.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\Plane.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\Plane.mat.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\Plane.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Rank_02_Blue.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Rank_02_Blue.mat
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Rank_02_Blue.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Rank_02_Blue.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Rank_02_Blue.mat.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Rank_02_Blue.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Weapons_Rank_02.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Weapons_Rank_02.mat
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Weapons_Rank_02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Weapons_Rank_02.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Weapons_Rank_02.mat.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Materials\SpaceMan_Weapons_Rank_02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\Long_Rifle_03.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\Long_Rifle_03.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\Long_Rifle_03.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\Long_Rifle_03.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\Long_Rifle_03.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\Long_Rifle_03.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\Plane.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\Plane.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\Plane.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\Plane.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\Plane.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\Plane.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\space_man_model.FBX
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\space_man_model.FBX
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\space_man_model.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Models\space_man_model.FBX.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Models\space_man_model.FBX.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Models\space_man_model.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Prefab.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Prefab\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Prefab\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\Prefab\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Prefab\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Prefab\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Prefab\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Prefab\space_man_model.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Prefab\space_man_model.prefab
+    projectPath: Assets\FreeAnimatedSpaceMan\Prefab\space_man_model.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Prefab\space_man_model.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Prefab\space_man_model.prefab.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Prefab\space_man_model.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Scene.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Scene.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Scene.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Scene\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Scene\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\Scene\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Scene\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Scene\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Scene\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Scene\Main_scene.unity
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Scene\Main_scene.unity
+    projectPath: Assets\FreeAnimatedSpaceMan\Scene\Main_scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Scene\Main_scene.unity.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Scene\Main_scene.unity.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Scene\Main_scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures\desktop.ini
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures\desktop.ini
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures\desktop.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures\desktop.ini.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures\desktop.ini.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures\desktop.ini.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Rank_02_Blue.png
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Rank_02_Blue.png
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Rank_02_Blue.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Rank_02_Blue.png.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Rank_02_Blue.png.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Rank_02_Blue.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Weapons_Rank_02.png
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Weapons_Rank_02.png
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Weapons_Rank_02.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Weapons_Rank_02.png.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Weapons_Rank_02.png.meta
+    projectPath: Assets\FreeAnimatedSpaceMan\Textures\SpaceMan_Weapons_Rank_02.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.mat
+    projectPath: Assets\Materials\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.mat.meta
+    projectPath: Assets\Materials\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\689ae3f9914ea92308ca3f4ac8ec5438.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\689ae3f9914ea92308ca3f4ac8ec5438.mat
+    projectPath: Assets\Materials\689ae3f9914ea92308ca3f4ac8ec5438.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Materials\Stone texture 14.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\Stone texture
+      14.mat
+    projectPath: Assets\Materials\Stone texture 14.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Stone texture 14.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\Stone texture
+      14.mat.meta
+    projectPath: Assets\Materials\Stone texture 14.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Stone texture 15.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\Stone texture
+      15.mat
+    projectPath: Assets\Materials\Stone texture 15.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Stone texture 15.mat.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\Stone texture
+      15.mat.meta
+    projectPath: Assets\Materials\Stone texture 15.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Stone texture small.mat
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Materials\Stone texture
+      small.mat
+    projectPath: Assets\Materials\Stone texture small.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Target 1.prefab
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Prefabs\Target 1.prefab
+    projectPath: Assets\Prefabs\Target 1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Target 1.prefab.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Prefabs\Target 1.prefab.meta
+    projectPath: Assets\Prefabs\Target 1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scenes\SampleScene.meta
+    projectPath: Assets\Scenes\SampleScene.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -163,285 +595,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\DoorMotion.cs
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\DoorMotion.cs
-    projectPath: Assets\Scripts\DoorMotion.cs
+  - path: Assets\Scenes\SampleScene\NavMesh.asset
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scenes\SampleScene\NavMesh.asset
+    projectPath: Assets\Scenes\SampleScene\NavMesh.asset
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene\NavMesh.asset.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scenes\SampleScene\NavMesh.asset.meta
+    projectPath: Assets\Scenes\SampleScene\NavMesh.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CharacterMotion.cs
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\CharacterMotion.cs
+    projectPath: Assets\Scripts\CharacterMotion.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CharacterMotion.cs.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\CharacterMotion.cs.meta
+    projectPath: Assets\Scripts\CharacterMotion.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TargetController.cs
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\TargetController.cs
+    projectPath: Assets\Scripts\TargetController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TargetController.cs.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\TargetController.cs.meta
+    projectPath: Assets\Scripts\TargetController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\TriggerDoor.cs
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scripts\TriggerDoor.cs
     projectPath: Assets\Scripts\TriggerDoor.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\StoneFence.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence.meta
-    projectPath: Assets\StoneFence.meta
+  - path: Assets\Textures\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.jpg
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Textures\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.jpg
+    projectPath: Assets\Textures\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\StoneFence\Materials.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials.meta
-    projectPath: Assets\StoneFence\Materials.meta
+  - path: Assets\Textures\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.jpg.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Textures\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.jpg.meta
+    projectPath: Assets\Textures\003311-Brick-Wall-Textures-Vol.1-_-GraphicBurger.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\StoneFence\Materials\StoneFence01.mat
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence01.mat
-    projectPath: Assets\StoneFence\Materials\StoneFence01.mat
+  - path: Assets\Textures\Stone texture 1.jpg
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Textures\Stone texture 1.jpg
+    projectPath: Assets\Textures\Stone texture 1.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\StoneFence\Materials\StoneFence01.mat.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence01.mat.meta
-    projectPath: Assets\StoneFence\Materials\StoneFence01.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Materials\StoneFence02.mat
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence02.mat
-    projectPath: Assets\StoneFence\Materials\StoneFence02.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Materials\StoneFence02.mat.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Materials\StoneFence02.mat.meta
-    projectPath: Assets\StoneFence\Materials\StoneFence02.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes.meta
-    projectPath: Assets\StoneFence\Meshes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx.meta
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD0.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx.meta
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD1.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx.meta
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Post_LOD2.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx.meta
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD0.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx.meta
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD1.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx.meta
-    projectPath: Assets\StoneFence\Meshes\StoneFence_Wall_LOD2.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs.meta
-    projectPath: Assets\StoneFence\Prefabs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab.meta
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD0.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab.meta
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab.meta
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Post_LOD2.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab.meta
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD0.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab.meta
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab.meta
-    projectPath: Assets\StoneFence\Prefabs\StoneFence_Wall_LOD2.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\readme.rtf
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\readme.rtf
-    projectPath: Assets\StoneFence\readme.rtf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\readme.rtf.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\readme.rtf.meta
-    projectPath: Assets\StoneFence\readme.rtf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures.meta
-    projectPath: Assets\StoneFence\Textures.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence01.tga
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01.tga
-    projectPath: Assets\StoneFence\Textures\StoneFence01.tga
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence01.tga.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01.tga.meta
-    projectPath: Assets\StoneFence\Textures\StoneFence01.tga.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence01_n.tga
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01_n.tga
-    projectPath: Assets\StoneFence\Textures\StoneFence01_n.tga
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence01_n.tga.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence01_n.tga.meta
-    projectPath: Assets\StoneFence\Textures\StoneFence01_n.tga.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence02.tga
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02.tga
-    projectPath: Assets\StoneFence\Textures\StoneFence02.tga
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence02.tga.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02.tga.meta
-    projectPath: Assets\StoneFence\Textures\StoneFence02.tga.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence02_n.tga
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02_n.tga
-    projectPath: Assets\StoneFence\Textures\StoneFence02_n.tga
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\StoneFence\Textures\StoneFence02_n.tga.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\StoneFence\Textures\StoneFence02_n.tga.meta
-    projectPath: Assets\StoneFence\Textures\StoneFence02_n.tga.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Toon Furniture\Materials\BookCase_1_1.mat
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Toon Furniture\Materials\BookCase_1_1.mat
-    projectPath: Assets\Toon Furniture\Materials\BookCase_1_1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Toon Furniture\Materials\BookCase_1_1.mat.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Toon Furniture\Materials\BookCase_1_1.mat.meta
-    projectPath: Assets\Toon Furniture\Materials\BookCase_1_1.mat.meta
+  - path: Assets\Textures\Stone texture 1.jpg.meta
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Textures\Stone texture 1.jpg.meta
+    projectPath: Assets\Textures\Stone texture 1.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -463,9 +679,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -474,7 +702,7 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
@@ -490,6 +718,2316 @@ MonoBehaviour:
   - path: Library\InspectorExpandedItems.asset
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\003efb3587f76014688a1190cee2c8c9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\00\003efb3587f76014688a1190cee2c8c9.info
+    projectPath: Library\metadata\00\003efb3587f76014688a1190cee2c8c9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\0051796fd9b1ab54fbd13fdf8d2cd2bb.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\00\0051796fd9b1ab54fbd13fdf8d2cd2bb.info
+    projectPath: Library\metadata\00\0051796fd9b1ab54fbd13fdf8d2cd2bb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\022f817192f82864a956f7ccd727ef3d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\022f817192f82864a956f7ccd727ef3d.info
+    projectPath: Library\metadata\02\022f817192f82864a956f7ccd727ef3d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\024a405b5fd906743bdaacd4927effc4.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\024a405b5fd906743bdaacd4927effc4.info
+    projectPath: Library\metadata\02\024a405b5fd906743bdaacd4927effc4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\025f4e283fb576840aa96c4bcdb97ba0
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\025f4e283fb576840aa96c4bcdb97ba0
+    projectPath: Library\metadata\02\025f4e283fb576840aa96c4bcdb97ba0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\025f4e283fb576840aa96c4bcdb97ba0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\025f4e283fb576840aa96c4bcdb97ba0.info
+    projectPath: Library\metadata\02\025f4e283fb576840aa96c4bcdb97ba0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\0261e0d39029378409cd6ccb24d17a58.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\0261e0d39029378409cd6ccb24d17a58.info
+    projectPath: Library\metadata\02\0261e0d39029378409cd6ccb24d17a58.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\02ca65ab740714a419148b75fac70719
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\02ca65ab740714a419148b75fac70719
+    projectPath: Library\metadata\02\02ca65ab740714a419148b75fac70719
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\02ca65ab740714a419148b75fac70719.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\02ca65ab740714a419148b75fac70719.info
+    projectPath: Library\metadata\02\02ca65ab740714a419148b75fac70719.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\02e5269d0ab9fe64ca9bdff1d9cf8101
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\02e5269d0ab9fe64ca9bdff1d9cf8101
+    projectPath: Library\metadata\02\02e5269d0ab9fe64ca9bdff1d9cf8101
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\02\02e5269d0ab9fe64ca9bdff1d9cf8101.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\02\02e5269d0ab9fe64ca9bdff1d9cf8101.info
+    projectPath: Library\metadata\02\02e5269d0ab9fe64ca9bdff1d9cf8101.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\03\03da7bf524713ff4aba7ef0d061f734b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\03\03da7bf524713ff4aba7ef0d061f734b.info
+    projectPath: Library\metadata\03\03da7bf524713ff4aba7ef0d061f734b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\05\056c6241a182b5e4fae63df4c82d03e1
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\05\056c6241a182b5e4fae63df4c82d03e1
+    projectPath: Library\metadata\05\056c6241a182b5e4fae63df4c82d03e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\05\056c6241a182b5e4fae63df4c82d03e1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\05\056c6241a182b5e4fae63df4c82d03e1.info
+    projectPath: Library\metadata\05\056c6241a182b5e4fae63df4c82d03e1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\06\0646241ed45a4584496c9f961b9fc144.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\06\0646241ed45a4584496c9f961b9fc144.info
+    projectPath: Library\metadata\06\0646241ed45a4584496c9f961b9fc144.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\08\08a5f3a4f1a5afa47b54e6eddc350ddc.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\08\08a5f3a4f1a5afa47b54e6eddc350ddc.info
+    projectPath: Library\metadata\08\08a5f3a4f1a5afa47b54e6eddc350ddc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\09\094b1ce88c26fa145ae8b34a1712b67e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\09\094b1ce88c26fa145ae8b34a1712b67e.info
+    projectPath: Library\metadata\09\094b1ce88c26fa145ae8b34a1712b67e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\09\09782e9b245027943b80aeaafb397b6b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\09\09782e9b245027943b80aeaafb397b6b.info
+    projectPath: Library\metadata\09\09782e9b245027943b80aeaafb397b6b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\09\0989d878ef2d74c44b4c7ac19551ff67
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\09\0989d878ef2d74c44b4c7ac19551ff67
+    projectPath: Library\metadata\09\0989d878ef2d74c44b4c7ac19551ff67
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\09\0989d878ef2d74c44b4c7ac19551ff67.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\09\0989d878ef2d74c44b4c7ac19551ff67.info
+    projectPath: Library\metadata\09\0989d878ef2d74c44b4c7ac19551ff67.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0b\0b26924746d6cad4780f9d19829b95b3.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0b\0b26924746d6cad4780f9d19829b95b3.info
+    projectPath: Library\metadata\0b\0b26924746d6cad4780f9d19829b95b3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0c\0c18f0ffd4318a149bd680cdf60d0e48
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0c\0c18f0ffd4318a149bd680cdf60d0e48
+    projectPath: Library\metadata\0c\0c18f0ffd4318a149bd680cdf60d0e48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0c\0c18f0ffd4318a149bd680cdf60d0e48.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0c\0c18f0ffd4318a149bd680cdf60d0e48.info
+    projectPath: Library\metadata\0c\0c18f0ffd4318a149bd680cdf60d0e48.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0c\0c55d4ae09569a04e90ec2e1f9e814f9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0c\0c55d4ae09569a04e90ec2e1f9e814f9.info
+    projectPath: Library\metadata\0c\0c55d4ae09569a04e90ec2e1f9e814f9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0d\0d2ed163860809d48ab2e72792d683e8
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0d\0d2ed163860809d48ab2e72792d683e8
+    projectPath: Library\metadata\0d\0d2ed163860809d48ab2e72792d683e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0d\0d2ed163860809d48ab2e72792d683e8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0d\0d2ed163860809d48ab2e72792d683e8.info
+    projectPath: Library\metadata\0d\0d2ed163860809d48ab2e72792d683e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0e\0e251483ebb79944099c5a40a8e232cd.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0e\0e251483ebb79944099c5a40a8e232cd.info
+    projectPath: Library\metadata\0e\0e251483ebb79944099c5a40a8e232cd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0e\0e7ab00c79ca2f44da677bab7f8f55e8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\0e\0e7ab00c79ca2f44da677bab7f8f55e8.info
+    projectPath: Library\metadata\0e\0e7ab00c79ca2f44da677bab7f8f55e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\10\10145f279f90346bbb61712ff585828b
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\10\10145f279f90346bbb61712ff585828b
+    projectPath: Library\metadata\10\10145f279f90346bbb61712ff585828b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\10\10efb94c6bff2ac4ead891c26d371ef4.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\10\10efb94c6bff2ac4ead891c26d371ef4.info
+    projectPath: Library\metadata\10\10efb94c6bff2ac4ead891c26d371ef4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\12\1282aac839cf37b45ba2f1f26e5aa091.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\12\1282aac839cf37b45ba2f1f26e5aa091.info
+    projectPath: Library\metadata\12\1282aac839cf37b45ba2f1f26e5aa091.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\12\129d635f36d5e9d4fa3b656a8ef75ceb.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\12\129d635f36d5e9d4fa3b656a8ef75ceb.info
+    projectPath: Library\metadata\12\129d635f36d5e9d4fa3b656a8ef75ceb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+    projectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\13\137fab4b64e68e942836a84095cfdb29.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\13\137fab4b64e68e942836a84095cfdb29.info
+    projectPath: Library\metadata\13\137fab4b64e68e942836a84095cfdb29.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\15\15681e041c6a91e4891d5ffc30ddf367.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\15\15681e041c6a91e4891d5ffc30ddf367.info
+    projectPath: Library\metadata\15\15681e041c6a91e4891d5ffc30ddf367.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\15\15d32a72a02c48a4d98fedc5920b1e0d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\15\15d32a72a02c48a4d98fedc5920b1e0d.info
+    projectPath: Library\metadata\15\15d32a72a02c48a4d98fedc5920b1e0d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\15\15faa09740202bf45a908fce8a7be3c8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\15\15faa09740202bf45a908fce8a7be3c8.info
+    projectPath: Library\metadata\15\15faa09740202bf45a908fce8a7be3c8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\15\15ff4ba6789dd814a802a627b0fe38ca.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\15\15ff4ba6789dd814a802a627b0fe38ca.info
+    projectPath: Library\metadata\15\15ff4ba6789dd814a802a627b0fe38ca.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\19\1906dcb2568c13f4c962c7e0c0d82ac3.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\19\1906dcb2568c13f4c962c7e0c0d82ac3.info
+    projectPath: Library\metadata\19\1906dcb2568c13f4c962c7e0c0d82ac3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1a\1a63090d599e28043b9a0505fb2a3315.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1a\1a63090d599e28043b9a0505fb2a3315.info
+    projectPath: Library\metadata\1a\1a63090d599e28043b9a0505fb2a3315.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1b\1b65b2b3727708e4da4d8a95d568cb40.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1b\1b65b2b3727708e4da4d8a95d568cb40.info
+    projectPath: Library\metadata\1b\1b65b2b3727708e4da4d8a95d568cb40.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1b\1bc221fceb34586459ba6ae1ed591959.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1b\1bc221fceb34586459ba6ae1ed591959.info
+    projectPath: Library\metadata\1b\1bc221fceb34586459ba6ae1ed591959.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1c\1ccf6afbbd77e9c47bc68cee3f4dfbbd
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1c\1ccf6afbbd77e9c47bc68cee3f4dfbbd
+    projectPath: Library\metadata\1c\1ccf6afbbd77e9c47bc68cee3f4dfbbd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1c\1ccf6afbbd77e9c47bc68cee3f4dfbbd.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1c\1ccf6afbbd77e9c47bc68cee3f4dfbbd.info
+    projectPath: Library\metadata\1c\1ccf6afbbd77e9c47bc68cee3f4dfbbd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1d\1d01d3e47aa094e46a9b21e9bfe34386.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1d\1d01d3e47aa094e46a9b21e9bfe34386.info
+    projectPath: Library\metadata\1d\1d01d3e47aa094e46a9b21e9bfe34386.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1d\1ddcc504364d8f9449fe311e15a736a5.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1d\1ddcc504364d8f9449fe311e15a736a5.info
+    projectPath: Library\metadata\1d\1ddcc504364d8f9449fe311e15a736a5.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1e\1e4c2f610722651479daaae54d817d84
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1e\1e4c2f610722651479daaae54d817d84
+    projectPath: Library\metadata\1e\1e4c2f610722651479daaae54d817d84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1e\1e4c2f610722651479daaae54d817d84.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1e\1e4c2f610722651479daaae54d817d84.info
+    projectPath: Library\metadata\1e\1e4c2f610722651479daaae54d817d84.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1f\1f1346a8e14120249a818093ffdb9b2b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1f\1f1346a8e14120249a818093ffdb9b2b.info
+    projectPath: Library\metadata\1f\1f1346a8e14120249a818093ffdb9b2b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1f\1fcc8ec3f56125644a57945c32cc1946.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\1f\1fcc8ec3f56125644a57945c32cc1946.info
+    projectPath: Library\metadata\1f\1fcc8ec3f56125644a57945c32cc1946.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\20\20f382ca5b67580458b454c14e57251e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\20\20f382ca5b67580458b454c14e57251e.info
+    projectPath: Library\metadata\20\20f382ca5b67580458b454c14e57251e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\21\2145aca4677bd374bb41e3f80a5b53d6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\21\2145aca4677bd374bb41e3f80a5b53d6.info
+    projectPath: Library\metadata\21\2145aca4677bd374bb41e3f80a5b53d6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\21\21ca94eecff5931448573f57b4769ea2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\21\21ca94eecff5931448573f57b4769ea2.info
+    projectPath: Library\metadata\21\21ca94eecff5931448573f57b4769ea2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\21\21d9d51385e39804281f257f3a9bfab0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\21\21d9d51385e39804281f257f3a9bfab0.info
+    projectPath: Library\metadata\21\21d9d51385e39804281f257f3a9bfab0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\22\2243660480402134dbf8912dc933d4cf.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\22\2243660480402134dbf8912dc933d4cf.info
+    projectPath: Library\metadata\22\2243660480402134dbf8912dc933d4cf.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\22\22594f653b29cb2488a78553895e4d36
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\22\22594f653b29cb2488a78553895e4d36
+    projectPath: Library\metadata\22\22594f653b29cb2488a78553895e4d36
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\22\22594f653b29cb2488a78553895e4d36.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\22\22594f653b29cb2488a78553895e4d36.info
+    projectPath: Library\metadata\22\22594f653b29cb2488a78553895e4d36.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23202f7d4d3db3b43afe7d06902be9a8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\23\23202f7d4d3db3b43afe7d06902be9a8.info
+    projectPath: Library\metadata\23\23202f7d4d3db3b43afe7d06902be9a8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23661dce65b8f53478b9b15db1ae1d49.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\23\23661dce65b8f53478b9b15db1ae1d49.info
+    projectPath: Library\metadata\23\23661dce65b8f53478b9b15db1ae1d49.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23a2aece7733d8e49beae89f5acee558.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\23\23a2aece7733d8e49beae89f5acee558.info
+    projectPath: Library\metadata\23\23a2aece7733d8e49beae89f5acee558.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23e5f126029186c47a301cb4c506b280
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\23\23e5f126029186c47a301cb4c506b280
+    projectPath: Library\metadata\23\23e5f126029186c47a301cb4c506b280
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23e5f126029186c47a301cb4c506b280.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\23\23e5f126029186c47a301cb4c506b280.info
+    projectPath: Library\metadata\23\23e5f126029186c47a301cb4c506b280.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\24\2408c7077c3256541945bfb35ac03ca5.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\24\2408c7077c3256541945bfb35ac03ca5.info
+    projectPath: Library\metadata\24\2408c7077c3256541945bfb35ac03ca5.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    projectPath: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\26\26021274ef3a7314b9f0df5fc9678ac0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\26\26021274ef3a7314b9f0df5fc9678ac0.info
+    projectPath: Library\metadata\26\26021274ef3a7314b9f0df5fc9678ac0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\26\26b6147b9dbe34b42bf937f88115f52e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\26\26b6147b9dbe34b42bf937f88115f52e.info
+    projectPath: Library\metadata\26\26b6147b9dbe34b42bf937f88115f52e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\27\273b644c84a42b64e9818446d82c9173.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\27\273b644c84a42b64e9818446d82c9173.info
+    projectPath: Library\metadata\27\273b644c84a42b64e9818446d82c9173.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\27\278ceeecf207b8e44bf1caa9ab768075.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\27\278ceeecf207b8e44bf1caa9ab768075.info
+    projectPath: Library\metadata\27\278ceeecf207b8e44bf1caa9ab768075.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\27\2794e48d8bf5c7349b42f50bb23e5e4b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\27\2794e48d8bf5c7349b42f50bb23e5e4b.info
+    projectPath: Library\metadata\27\2794e48d8bf5c7349b42f50bb23e5e4b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\28\28e6efeab80060a44aeb418ac1f92bce.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\28\28e6efeab80060a44aeb418ac1f92bce.info
+    projectPath: Library\metadata\28\28e6efeab80060a44aeb418ac1f92bce.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\29\296234c8c55a49d45a190b0d5be1c47c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\29\296234c8c55a49d45a190b0d5be1c47c.info
+    projectPath: Library\metadata\29\296234c8c55a49d45a190b0d5be1c47c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2b\2bed2b2c0943e36459952282ba5f7292.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2b\2bed2b2c0943e36459952282ba5f7292.info
+    projectPath: Library\metadata\2b\2bed2b2c0943e36459952282ba5f7292.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2e\2e13f1229956e2542a798565bbaf32be.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2e\2e13f1229956e2542a798565bbaf32be.info
+    projectPath: Library\metadata\2e\2e13f1229956e2542a798565bbaf32be.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2e\2e56118484113a44faa3c8e83481b418.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2e\2e56118484113a44faa3c8e83481b418.info
+    projectPath: Library\metadata\2e\2e56118484113a44faa3c8e83481b418.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2e\2e77c29bd59d8794bbe3470b60fec83a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2e\2e77c29bd59d8794bbe3470b60fec83a.info
+    projectPath: Library\metadata\2e\2e77c29bd59d8794bbe3470b60fec83a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2e\2edc132688aefb645888fe640561c1e8
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2e\2edc132688aefb645888fe640561c1e8
+    projectPath: Library\metadata\2e\2edc132688aefb645888fe640561c1e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2e\2edc132688aefb645888fe640561c1e8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2e\2edc132688aefb645888fe640561c1e8.info
+    projectPath: Library\metadata\2e\2edc132688aefb645888fe640561c1e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2f\2f8deaab3387f9345ad2743e7c25de13.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\2f\2f8deaab3387f9345ad2743e7c25de13.info
+    projectPath: Library\metadata\2f\2f8deaab3387f9345ad2743e7c25de13.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\30\30ea37132d76e624eacbf2b75cb5f50a
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\30\30ea37132d76e624eacbf2b75cb5f50a
+    projectPath: Library\metadata\30\30ea37132d76e624eacbf2b75cb5f50a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\30\30ea37132d76e624eacbf2b75cb5f50a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\30\30ea37132d76e624eacbf2b75cb5f50a.info
+    projectPath: Library\metadata\30\30ea37132d76e624eacbf2b75cb5f50a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\32\322de118bfa5ec4418f29255f2bdeac0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\32\322de118bfa5ec4418f29255f2bdeac0.info
+    projectPath: Library\metadata\32\322de118bfa5ec4418f29255f2bdeac0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\32\32bd9633a71b27641a93e11985de4c8a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\32\32bd9633a71b27641a93e11985de4c8a.info
+    projectPath: Library\metadata\32\32bd9633a71b27641a93e11985de4c8a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\33\335e5cedc041a614c86ff1f3feee693a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\33\335e5cedc041a614c86ff1f3feee693a.info
+    projectPath: Library\metadata\33\335e5cedc041a614c86ff1f3feee693a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\35\356b1d37aedb571479e6cff7bda80568.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\35\356b1d37aedb571479e6cff7bda80568.info
+    projectPath: Library\metadata\35\356b1d37aedb571479e6cff7bda80568.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\35\35f6412b7d0f22341b053bad4871ce4f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\35\35f6412b7d0f22341b053bad4871ce4f.info
+    projectPath: Library\metadata\35\35f6412b7d0f22341b053bad4871ce4f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\36\362911fc952a76e47a19b4e21bc4b183.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\36\362911fc952a76e47a19b4e21bc4b183.info
+    projectPath: Library\metadata\36\362911fc952a76e47a19b4e21bc4b183.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\36\364e3c2ec1b6dc441a6f610db70a5b60.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\36\364e3c2ec1b6dc441a6f610db70a5b60.info
+    projectPath: Library\metadata\36\364e3c2ec1b6dc441a6f610db70a5b60.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\37\378ac7df02f28114d9644a952d98896d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\37\378ac7df02f28114d9644a952d98896d.info
+    projectPath: Library\metadata\37\378ac7df02f28114d9644a952d98896d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\39\3942771a39e29d24c9d6ed16822a0104
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\39\3942771a39e29d24c9d6ed16822a0104
+    projectPath: Library\metadata\39\3942771a39e29d24c9d6ed16822a0104
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\39\3942771a39e29d24c9d6ed16822a0104.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\39\3942771a39e29d24c9d6ed16822a0104.info
+    projectPath: Library\metadata\39\3942771a39e29d24c9d6ed16822a0104.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\39\39801b91c835ba944a3b1c21cecd0fd5.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\39\39801b91c835ba944a3b1c21cecd0fd5.info
+    projectPath: Library\metadata\39\39801b91c835ba944a3b1c21cecd0fd5.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\39\39ae07543bd7e8d44afc66eefd0a58c9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\39\39ae07543bd7e8d44afc66eefd0a58c9.info
+    projectPath: Library\metadata\39\39ae07543bd7e8d44afc66eefd0a58c9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    projectPath: Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3abc8faab9f5cbe4db0336c99fef85ca.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3a\3abc8faab9f5cbe4db0336c99fef85ca.info
+    projectPath: Library\metadata\3a\3abc8faab9f5cbe4db0336c99fef85ca.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3c\3c3ff9b1c09459d45bed68bdba2debb1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3c\3c3ff9b1c09459d45bed68bdba2debb1.info
+    projectPath: Library\metadata\3c\3c3ff9b1c09459d45bed68bdba2debb1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3d\3ddc923c1a3527c4f84a7050af679b73.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3d\3ddc923c1a3527c4f84a7050af679b73.info
+    projectPath: Library\metadata\3d\3ddc923c1a3527c4f84a7050af679b73.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3d\3df2746dbbb9fcd4b98280488b85163f
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3d\3df2746dbbb9fcd4b98280488b85163f
+    projectPath: Library\metadata\3d\3df2746dbbb9fcd4b98280488b85163f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3d\3df2746dbbb9fcd4b98280488b85163f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3d\3df2746dbbb9fcd4b98280488b85163f.info
+    projectPath: Library\metadata\3d\3df2746dbbb9fcd4b98280488b85163f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3e\3eea98bcea7d6a4458c2e103d8b9cfd1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3e\3eea98bcea7d6a4458c2e103d8b9cfd1.info
+    projectPath: Library\metadata\3e\3eea98bcea7d6a4458c2e103d8b9cfd1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3f\3f47f4d644d848c4aa8dce558daa5b85.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\3f\3f47f4d644d848c4aa8dce558daa5b85.info
+    projectPath: Library\metadata\3f\3f47f4d644d848c4aa8dce558daa5b85.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\40\4000a5228a1788c4285f9f7c9137b3ed.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\40\4000a5228a1788c4285f9f7c9137b3ed.info
+    projectPath: Library\metadata\40\4000a5228a1788c4285f9f7c9137b3ed.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\40\40a3394db3145594c822bef60c53fbf4.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\40\40a3394db3145594c822bef60c53fbf4.info
+    projectPath: Library\metadata\40\40a3394db3145594c822bef60c53fbf4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\41\411038e019fc4044d912f7bb0cefcdf6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\41\411038e019fc4044d912f7bb0cefcdf6.info
+    projectPath: Library\metadata\41\411038e019fc4044d912f7bb0cefcdf6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\42\42931265e98e07a48a37ac93d4d691c4.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\42\42931265e98e07a48a37ac93d4d691c4.info
+    projectPath: Library\metadata\42\42931265e98e07a48a37ac93d4d691c4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\43\430f0e4de0a4f814c9e18f04833b5771.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\43\430f0e4de0a4f814c9e18f04833b5771.info
+    projectPath: Library\metadata\43\430f0e4de0a4f814c9e18f04833b5771.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\44\44a0c10aa773f5a47812aa0ec5227bdd.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\44\44a0c10aa773f5a47812aa0ec5227bdd.info
+    projectPath: Library\metadata\44\44a0c10aa773f5a47812aa0ec5227bdd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\45\4508f79323bc84441835545a4f70ffa4.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\45\4508f79323bc84441835545a4f70ffa4.info
+    projectPath: Library\metadata\45\4508f79323bc84441835545a4f70ffa4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\45\45276210d7d92ae439d4f9ba0fd6f6ba
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\45\45276210d7d92ae439d4f9ba0fd6f6ba
+    projectPath: Library\metadata\45\45276210d7d92ae439d4f9ba0fd6f6ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\45\45276210d7d92ae439d4f9ba0fd6f6ba.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\45\45276210d7d92ae439d4f9ba0fd6f6ba.info
+    projectPath: Library\metadata\45\45276210d7d92ae439d4f9ba0fd6f6ba.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+    projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\46\46ee326d6f660104da37854bc4722d97
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\46\46ee326d6f660104da37854bc4722d97
+    projectPath: Library\metadata\46\46ee326d6f660104da37854bc4722d97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\46\46ee326d6f660104da37854bc4722d97.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\46\46ee326d6f660104da37854bc4722d97.info
+    projectPath: Library\metadata\46\46ee326d6f660104da37854bc4722d97.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\48\4824839bd071a8147b3efd7538332d29.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\48\4824839bd071a8147b3efd7538332d29.info
+    projectPath: Library\metadata\48\4824839bd071a8147b3efd7538332d29.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\48\48789c7005e3790408daf876242fb920.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\48\48789c7005e3790408daf876242fb920.info
+    projectPath: Library\metadata\48\48789c7005e3790408daf876242fb920.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\48\48e03a04f4b2d814b9ce35c219f30ef0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\48\48e03a04f4b2d814b9ce35c219f30ef0.info
+    projectPath: Library\metadata\48\48e03a04f4b2d814b9ce35c219f30ef0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\49\4931e35a231785140be739f1309b6ca7.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\49\4931e35a231785140be739f1309b6ca7.info
+    projectPath: Library\metadata\49\4931e35a231785140be739f1309b6ca7.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\49\4945551f5e101604ab8cd71442e62a7e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\49\4945551f5e101604ab8cd71442e62a7e.info
+    projectPath: Library\metadata\49\4945551f5e101604ab8cd71442e62a7e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\49\49c69dfd5fde5544aa3c5e4f46b14925.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\49\49c69dfd5fde5544aa3c5e4f46b14925.info
+    projectPath: Library\metadata\49\49c69dfd5fde5544aa3c5e4f46b14925.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4a\4a357a7f02c7c8b468d4d038e61ecd7f
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4a\4a357a7f02c7c8b468d4d038e61ecd7f
+    projectPath: Library\metadata\4a\4a357a7f02c7c8b468d4d038e61ecd7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4a\4a357a7f02c7c8b468d4d038e61ecd7f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4a\4a357a7f02c7c8b468d4d038e61ecd7f.info
+    projectPath: Library\metadata\4a\4a357a7f02c7c8b468d4d038e61ecd7f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4a\4ae30892f34ad334095085eacc4dcb7b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4a\4ae30892f34ad334095085eacc4dcb7b.info
+    projectPath: Library\metadata\4a\4ae30892f34ad334095085eacc4dcb7b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4a\4afaa452ef080cb498346d3bd5c7c110.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4a\4afaa452ef080cb498346d3bd5c7c110.info
+    projectPath: Library\metadata\4a\4afaa452ef080cb498346d3bd5c7c110.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4e\4eb757cb0fc539d4f87bfe06c2a35c21.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4e\4eb757cb0fc539d4f87bfe06c2a35c21.info
+    projectPath: Library\metadata\4e\4eb757cb0fc539d4f87bfe06c2a35c21.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    projectPath: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\50\50ced3092a2c6d5418dbb2df80c370a8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\50\50ced3092a2c6d5418dbb2df80c370a8.info
+    projectPath: Library\metadata\50\50ced3092a2c6d5418dbb2df80c370a8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\52\52b70203659e5654b8b1005e94b0ece3.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\52\52b70203659e5654b8b1005e94b0ece3.info
+    projectPath: Library\metadata\52\52b70203659e5654b8b1005e94b0ece3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\54\5482ee8af0d724341b96cd2c062f6baf
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\54\5482ee8af0d724341b96cd2c062f6baf
+    projectPath: Library\metadata\54\5482ee8af0d724341b96cd2c062f6baf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\54\5482ee8af0d724341b96cd2c062f6baf.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\54\5482ee8af0d724341b96cd2c062f6baf.info
+    projectPath: Library\metadata\54\5482ee8af0d724341b96cd2c062f6baf.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\55\55ee4d169dfcc4b4484fd9ccd27b7764.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\55\55ee4d169dfcc4b4484fd9ccd27b7764.info
+    projectPath: Library\metadata\55\55ee4d169dfcc4b4484fd9ccd27b7764.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\56\56143fa81708d6647bc92eab52aa58e8
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\56\56143fa81708d6647bc92eab52aa58e8
+    projectPath: Library\metadata\56\56143fa81708d6647bc92eab52aa58e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\56\56143fa81708d6647bc92eab52aa58e8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\56\56143fa81708d6647bc92eab52aa58e8.info
+    projectPath: Library\metadata\56\56143fa81708d6647bc92eab52aa58e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\56\569b91127553a1041a6d6aa2e81bf80d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\56\569b91127553a1041a6d6aa2e81bf80d.info
+    projectPath: Library\metadata\56\569b91127553a1041a6d6aa2e81bf80d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\57\57715435b4fec704fa35cec6763c28c3
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\57\57715435b4fec704fa35cec6763c28c3
+    projectPath: Library\metadata\57\57715435b4fec704fa35cec6763c28c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\57\57715435b4fec704fa35cec6763c28c3.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\57\57715435b4fec704fa35cec6763c28c3.info
+    projectPath: Library\metadata\57\57715435b4fec704fa35cec6763c28c3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\57\57a32613b8338fb46b75889d19358690.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\57\57a32613b8338fb46b75889d19358690.info
+    projectPath: Library\metadata\57\57a32613b8338fb46b75889d19358690.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\59\595dd5aee4a95634385fd1fbf7216b7c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\59\595dd5aee4a95634385fd1fbf7216b7c.info
+    projectPath: Library\metadata\59\595dd5aee4a95634385fd1fbf7216b7c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\59\59799fa2671678946a502e2ca01da4a6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\59\59799fa2671678946a502e2ca01da4a6.info
+    projectPath: Library\metadata\59\59799fa2671678946a502e2ca01da4a6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    projectPath: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\5b\5b5e6b42a30a82e449fd787865b58a3d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\5b\5b5e6b42a30a82e449fd787865b58a3d.info
+    projectPath: Library\metadata\5b\5b5e6b42a30a82e449fd787865b58a3d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\5c\5c58155118a1cf2469411428cfd4362c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\5c\5c58155118a1cf2469411428cfd4362c.info
+    projectPath: Library\metadata\5c\5c58155118a1cf2469411428cfd4362c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+    projectPath: Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\63\631cde774ddeaa34f900e0ab6ef16c57.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\63\631cde774ddeaa34f900e0ab6ef16c57.info
+    projectPath: Library\metadata\63\631cde774ddeaa34f900e0ab6ef16c57.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\63\63423b7226709b94cb78bc0a51c2fdc5.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\63\63423b7226709b94cb78bc0a51c2fdc5.info
+    projectPath: Library\metadata\63\63423b7226709b94cb78bc0a51c2fdc5.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\64\64092630b557d5e4d80e3ae9e6747151.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\64\64092630b557d5e4d80e3ae9e6747151.info
+    projectPath: Library\metadata\64\64092630b557d5e4d80e3ae9e6747151.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\64\6481cd78347cf9143be28ea0d8e353c7.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\64\6481cd78347cf9143be28ea0d8e353c7.info
+    projectPath: Library\metadata\64\6481cd78347cf9143be28ea0d8e353c7.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\65\65b6f096056a3644389b3bda6c9e8a80.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\65\65b6f096056a3644389b3bda6c9e8a80.info
+    projectPath: Library\metadata\65\65b6f096056a3644389b3bda6c9e8a80.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\66\66b8d2bec15e0104b999d5c7dfb45fdc.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\66\66b8d2bec15e0104b999d5c7dfb45fdc.info
+    projectPath: Library\metadata\66\66b8d2bec15e0104b999d5c7dfb45fdc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6d\6def73f8311645b47a2d3ae4d6afb91f
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\6d\6def73f8311645b47a2d3ae4d6afb91f
+    projectPath: Library\metadata\6d\6def73f8311645b47a2d3ae4d6afb91f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6d\6def73f8311645b47a2d3ae4d6afb91f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\6d\6def73f8311645b47a2d3ae4d6afb91f.info
+    projectPath: Library\metadata\6d\6def73f8311645b47a2d3ae4d6afb91f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6e\6e6ad01b38823a24f9bf58056de9efef.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\6e\6e6ad01b38823a24f9bf58056de9efef.info
+    projectPath: Library\metadata\6e\6e6ad01b38823a24f9bf58056de9efef.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6f\6f2b08c1ec2e79f4688cdc292da8ff85.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\6f\6f2b08c1ec2e79f4688cdc292da8ff85.info
+    projectPath: Library\metadata\6f\6f2b08c1ec2e79f4688cdc292da8ff85.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\70\704056e8ffce10348b7ae0e23f29c4c6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\70\704056e8ffce10348b7ae0e23f29c4c6.info
+    projectPath: Library\metadata\70\704056e8ffce10348b7ae0e23f29c4c6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\70\707eb7b790aaa214bb421203de68536d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\70\707eb7b790aaa214bb421203de68536d.info
+    projectPath: Library\metadata\70\707eb7b790aaa214bb421203de68536d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\71\71fc1db2e822af944b27e68ad66ed50f
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\71\71fc1db2e822af944b27e68ad66ed50f
+    projectPath: Library\metadata\71\71fc1db2e822af944b27e68ad66ed50f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\71\71fc1db2e822af944b27e68ad66ed50f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\71\71fc1db2e822af944b27e68ad66ed50f.info
+    projectPath: Library\metadata\71\71fc1db2e822af944b27e68ad66ed50f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\72\724f5b4ee30793f4798e2113e6dc65e1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\72\724f5b4ee30793f4798e2113e6dc65e1.info
+    projectPath: Library\metadata\72\724f5b4ee30793f4798e2113e6dc65e1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\72\72616aa566640fa4498901aa2e09543e
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\72\72616aa566640fa4498901aa2e09543e
+    projectPath: Library\metadata\72\72616aa566640fa4498901aa2e09543e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\72\72616aa566640fa4498901aa2e09543e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\72\72616aa566640fa4498901aa2e09543e.info
+    projectPath: Library\metadata\72\72616aa566640fa4498901aa2e09543e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\74\743899f675f016e45a1ee7d1edacccf2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\74\743899f675f016e45a1ee7d1edacccf2.info
+    projectPath: Library\metadata\74\743899f675f016e45a1ee7d1edacccf2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\76\761ca3351a82bc94ba96936c37084ad9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\76\761ca3351a82bc94ba96936c37084ad9.info
+    projectPath: Library\metadata\76\761ca3351a82bc94ba96936c37084ad9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\76\76ad0c5c9efae324b940fda5e601d62c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\76\76ad0c5c9efae324b940fda5e601d62c.info
+    projectPath: Library\metadata\76\76ad0c5c9efae324b940fda5e601d62c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\77\77ac052cdde4bce4b9c521de187308df
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\77\77ac052cdde4bce4b9c521de187308df
+    projectPath: Library\metadata\77\77ac052cdde4bce4b9c521de187308df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\77\77ac052cdde4bce4b9c521de187308df.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\77\77ac052cdde4bce4b9c521de187308df.info
+    projectPath: Library\metadata\77\77ac052cdde4bce4b9c521de187308df.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\78\78c8d34799651084ca96701912d664dc.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\78\78c8d34799651084ca96701912d664dc.info
+    projectPath: Library\metadata\78\78c8d34799651084ca96701912d664dc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+    projectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\79\79d412b1c73fbb44487cd094c182a9bb
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\79\79d412b1c73fbb44487cd094c182a9bb
+    projectPath: Library\metadata\79\79d412b1c73fbb44487cd094c182a9bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\79\79d412b1c73fbb44487cd094c182a9bb.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\79\79d412b1c73fbb44487cd094c182a9bb.info
+    projectPath: Library\metadata\79\79d412b1c73fbb44487cd094c182a9bb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7b\7bd837ab56783b44baa20d3e543a6342.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7b\7bd837ab56783b44baa20d3e543a6342.info
+    projectPath: Library\metadata\7b\7bd837ab56783b44baa20d3e543a6342.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7c\7c6c4fc66a1ed9a4eb7458f3563eda63.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7c\7c6c4fc66a1ed9a4eb7458f3563eda63.info
+    projectPath: Library\metadata\7c\7c6c4fc66a1ed9a4eb7458f3563eda63.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7d\7d22934bf84ccd14082fd2d5a9f5951e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7d\7d22934bf84ccd14082fd2d5a9f5951e.info
+    projectPath: Library\metadata\7d\7d22934bf84ccd14082fd2d5a9f5951e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7d\7dbe00169b441e64a9693d2ee7fcea42.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7d\7dbe00169b441e64a9693d2ee7fcea42.info
+    projectPath: Library\metadata\7d\7dbe00169b441e64a9693d2ee7fcea42.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7e00b4046bd2ca5429f90632d734feb9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7e00b4046bd2ca5429f90632d734feb9.info
+    projectPath: Library\metadata\7e\7e00b4046bd2ca5429f90632d734feb9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7e9db585073230b438ac03f1ddea8b07.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7e9db585073230b438ac03f1ddea8b07.info
+    projectPath: Library\metadata\7e\7e9db585073230b438ac03f1ddea8b07.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7ea765cb44447094ab0aef02257cb821
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7ea765cb44447094ab0aef02257cb821
+    projectPath: Library\metadata\7e\7ea765cb44447094ab0aef02257cb821
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7ea765cb44447094ab0aef02257cb821.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7ea765cb44447094ab0aef02257cb821.info
+    projectPath: Library\metadata\7e\7ea765cb44447094ab0aef02257cb821.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7eb169ca98be6744db6423d236b0e90b
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7eb169ca98be6744db6423d236b0e90b
+    projectPath: Library\metadata\7e\7eb169ca98be6744db6423d236b0e90b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7eb169ca98be6744db6423d236b0e90b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7eb169ca98be6744db6423d236b0e90b.info
+    projectPath: Library\metadata\7e\7eb169ca98be6744db6423d236b0e90b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7ecf74b289b28f246bfea1ee3e275c26.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7e\7ecf74b289b28f246bfea1ee3e275c26.info
+    projectPath: Library\metadata\7e\7ecf74b289b28f246bfea1ee3e275c26.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7f\7f58309ce166972478cee4c83a1c91cd.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7f\7f58309ce166972478cee4c83a1c91cd.info
+    projectPath: Library\metadata\7f\7f58309ce166972478cee4c83a1c91cd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7f\7fc4482dfe616a346aff153e50571f54
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7f\7fc4482dfe616a346aff153e50571f54
+    projectPath: Library\metadata\7f\7fc4482dfe616a346aff153e50571f54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7f\7fc4482dfe616a346aff153e50571f54.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\7f\7fc4482dfe616a346aff153e50571f54.info
+    projectPath: Library\metadata\7f\7fc4482dfe616a346aff153e50571f54.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\80\809a31aaed7d3364eab636c8a903e622.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\80\809a31aaed7d3364eab636c8a903e622.info
+    projectPath: Library\metadata\80\809a31aaed7d3364eab636c8a903e622.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\81\8125ef854c31e6447b60f45d7262f058.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\81\8125ef854c31e6447b60f45d7262f058.info
+    projectPath: Library\metadata\81\8125ef854c31e6447b60f45d7262f058.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\81\8133c53ca4ed0c54c82be79fc0a4cec8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\81\8133c53ca4ed0c54c82be79fc0a4cec8.info
+    projectPath: Library\metadata\81\8133c53ca4ed0c54c82be79fc0a4cec8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\81\8137a4b9e7fd60340a30656d9c24feb7.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\81\8137a4b9e7fd60340a30656d9c24feb7.info
+    projectPath: Library\metadata\81\8137a4b9e7fd60340a30656d9c24feb7.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\82\8258fdccd226b584b8dc1c7ac1652db0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\82\8258fdccd226b584b8dc1c7ac1652db0.info
+    projectPath: Library\metadata\82\8258fdccd226b584b8dc1c7ac1652db0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\82\82686f0daef9e39479ebdce3a8749a6c
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\82\82686f0daef9e39479ebdce3a8749a6c
+    projectPath: Library\metadata\82\82686f0daef9e39479ebdce3a8749a6c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\82\82686f0daef9e39479ebdce3a8749a6c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\82\82686f0daef9e39479ebdce3a8749a6c.info
+    projectPath: Library\metadata\82\82686f0daef9e39479ebdce3a8749a6c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\83\83bfbbc6ac9032c46a97d37cbca3d895
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\83\83bfbbc6ac9032c46a97d37cbca3d895
+    projectPath: Library\metadata\83\83bfbbc6ac9032c46a97d37cbca3d895
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\83\83bfbbc6ac9032c46a97d37cbca3d895.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\83\83bfbbc6ac9032c46a97d37cbca3d895.info
+    projectPath: Library\metadata\83\83bfbbc6ac9032c46a97d37cbca3d895.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\84\844fae422a50aab4f9e8d285bad1c241
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\84\844fae422a50aab4f9e8d285bad1c241
+    projectPath: Library\metadata\84\844fae422a50aab4f9e8d285bad1c241
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\84\844fae422a50aab4f9e8d285bad1c241.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\84\844fae422a50aab4f9e8d285bad1c241.info
+    projectPath: Library\metadata\84\844fae422a50aab4f9e8d285bad1c241.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\84\84b3095a92ec27d448532647a747bbf9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\84\84b3095a92ec27d448532647a747bbf9.info
+    projectPath: Library\metadata\84\84b3095a92ec27d448532647a747bbf9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\86\8603e616cff05324cb018499b7ac1cb6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\86\8603e616cff05324cb018499b7ac1cb6.info
+    projectPath: Library\metadata\86\8603e616cff05324cb018499b7ac1cb6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\86\86c008322e7c647149878156c5b81940.info
+    projectPath: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\86\86d0242b70e6ab24aaf5a0e67edf2a61.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\86\86d0242b70e6ab24aaf5a0e67edf2a61.info
+    projectPath: Library\metadata\86\86d0242b70e6ab24aaf5a0e67edf2a61.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+    projectPath: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\89\89979514e8525ad4b9d2261486cdd014.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\89\89979514e8525ad4b9d2261486cdd014.info
+    projectPath: Library\metadata\89\89979514e8525ad4b9d2261486cdd014.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\89\89ea5aa77191721479b0a7122d927e7c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\89\89ea5aa77191721479b0a7122d927e7c.info
+    projectPath: Library\metadata\89\89ea5aa77191721479b0a7122d927e7c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8a\8a0b1c6fad6341742bc53e359b2eb97c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8a\8a0b1c6fad6341742bc53e359b2eb97c.info
+    projectPath: Library\metadata\8a\8a0b1c6fad6341742bc53e359b2eb97c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8b\8b2187eee69412246b555d50d7e41e78
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8b\8b2187eee69412246b555d50d7e41e78
+    projectPath: Library\metadata\8b\8b2187eee69412246b555d50d7e41e78
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8b\8b2187eee69412246b555d50d7e41e78.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8b\8b2187eee69412246b555d50d7e41e78.info
+    projectPath: Library\metadata\8b\8b2187eee69412246b555d50d7e41e78.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8b\8b77ab8a65e9c9e4ba013ba2868ef6b8
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8b\8b77ab8a65e9c9e4ba013ba2868ef6b8
+    projectPath: Library\metadata\8b\8b77ab8a65e9c9e4ba013ba2868ef6b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8b\8b77ab8a65e9c9e4ba013ba2868ef6b8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8b\8b77ab8a65e9c9e4ba013ba2868ef6b8.info
+    projectPath: Library\metadata\8b\8b77ab8a65e9c9e4ba013ba2868ef6b8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8d\8d54a38647251354a9756ef4864e4e67.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8d\8d54a38647251354a9756ef4864e4e67.info
+    projectPath: Library\metadata\8d\8d54a38647251354a9756ef4864e4e67.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8d\8d5a11bd06da90543b4faa8b968b2cc2
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8d\8d5a11bd06da90543b4faa8b968b2cc2
+    projectPath: Library\metadata\8d\8d5a11bd06da90543b4faa8b968b2cc2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8d\8d5a11bd06da90543b4faa8b968b2cc2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8d\8d5a11bd06da90543b4faa8b968b2cc2.info
+    projectPath: Library\metadata\8d\8d5a11bd06da90543b4faa8b968b2cc2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8e\8e4300b7bafcc74418f53c67ca571e4f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8e\8e4300b7bafcc74418f53c67ca571e4f.info
+    projectPath: Library\metadata\8e\8e4300b7bafcc74418f53c67ca571e4f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8f\8f35e825251e22f428131d8b214b4a93.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8f\8f35e825251e22f428131d8b214b4a93.info
+    projectPath: Library\metadata\8f\8f35e825251e22f428131d8b214b4a93.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8f\8fb60badbaa4ae649a56f12d58386b1a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\8f\8fb60badbaa4ae649a56f12d58386b1a.info
+    projectPath: Library\metadata\8f\8fb60badbaa4ae649a56f12d58386b1a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\90\90421e262216bf6428b4337235113ed2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\90\90421e262216bf6428b4337235113ed2.info
+    projectPath: Library\metadata\90\90421e262216bf6428b4337235113ed2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\91\9198f215242a0774db0d7db4fb59a015.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\91\9198f215242a0774db0d7db4fb59a015.info
+    projectPath: Library\metadata\91\9198f215242a0774db0d7db4fb59a015.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\92f18712826840f4bb15ca76d3f7d765
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\92\92f18712826840f4bb15ca76d3f7d765
+    projectPath: Library\metadata\92\92f18712826840f4bb15ca76d3f7d765
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\92f18712826840f4bb15ca76d3f7d765.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\92\92f18712826840f4bb15ca76d3f7d765.info
+    projectPath: Library\metadata\92\92f18712826840f4bb15ca76d3f7d765.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\93\93b7804c0d2944540afe34ed14ff76d7
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\93\93b7804c0d2944540afe34ed14ff76d7
+    projectPath: Library\metadata\93\93b7804c0d2944540afe34ed14ff76d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\93\93b7804c0d2944540afe34ed14ff76d7.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\93\93b7804c0d2944540afe34ed14ff76d7.info
+    projectPath: Library\metadata\93\93b7804c0d2944540afe34ed14ff76d7.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    projectPath: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\94\94cd5fa7d84e65045b1ab6e8fc78c044
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\94\94cd5fa7d84e65045b1ab6e8fc78c044
+    projectPath: Library\metadata\94\94cd5fa7d84e65045b1ab6e8fc78c044
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\94\94cd5fa7d84e65045b1ab6e8fc78c044.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\94\94cd5fa7d84e65045b1ab6e8fc78c044.info
+    projectPath: Library\metadata\94\94cd5fa7d84e65045b1ab6e8fc78c044.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\95\9548a0c31580f2841adc8b671fa21406.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\95\9548a0c31580f2841adc8b671fa21406.info
+    projectPath: Library\metadata\95\9548a0c31580f2841adc8b671fa21406.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\96\9614076bfdfc43344b1bdce22cec26ec.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\96\9614076bfdfc43344b1bdce22cec26ec.info
+    projectPath: Library\metadata\96\9614076bfdfc43344b1bdce22cec26ec.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
+    projectPath: Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\97\97cbc46f73823c044afdb77abdf3bb43.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\97\97cbc46f73823c044afdb77abdf3bb43.info
+    projectPath: Library\metadata\97\97cbc46f73823c044afdb77abdf3bb43.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    projectPath: Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9a\9a8e2ad0cc8923746b7b5ef3f7c34059.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\9a\9a8e2ad0cc8923746b7b5ef3f7c34059.info
+    projectPath: Library\metadata\9a\9a8e2ad0cc8923746b7b5ef3f7c34059.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9a\9aca3cac790e78f49aa255c2efa10daf.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\9a\9aca3cac790e78f49aa255c2efa10daf.info
+    projectPath: Library\metadata\9a\9aca3cac790e78f49aa255c2efa10daf.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9d\9da568db70dafa345a908282554b3672.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\9d\9da568db70dafa345a908282554b3672.info
+    projectPath: Library\metadata\9d\9da568db70dafa345a908282554b3672.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9e\9ef20c6d6021deb41a6df69d367d0199.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\9e\9ef20c6d6021deb41a6df69d367d0199.info
+    projectPath: Library\metadata\9e\9ef20c6d6021deb41a6df69d367d0199.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a0\a083ccdcd9975c548846918390de90ee.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a0\a083ccdcd9975c548846918390de90ee.info
+    projectPath: Library\metadata\a0\a083ccdcd9975c548846918390de90ee.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a0\a0ac5b90895077743a3196de11276987.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a0\a0ac5b90895077743a3196de11276987.info
+    projectPath: Library\metadata\a0\a0ac5b90895077743a3196de11276987.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a2\a23f193da264873409fcb5b9edda3d7c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a2\a23f193da264873409fcb5b9edda3d7c.info
+    projectPath: Library\metadata\a2\a23f193da264873409fcb5b9edda3d7c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a2\a27a8be488cbb5d4bac448dda9339b95.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a2\a27a8be488cbb5d4bac448dda9339b95.info
+    projectPath: Library\metadata\a2\a27a8be488cbb5d4bac448dda9339b95.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a3\a39c14be04b8abd45823d8b5b1b339b3.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a3\a39c14be04b8abd45823d8b5b1b339b3.info
+    projectPath: Library\metadata\a3\a39c14be04b8abd45823d8b5b1b339b3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a4\a4e6922f48c28e645b166a6e87c82b19.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a4\a4e6922f48c28e645b166a6e87c82b19.info
+    projectPath: Library\metadata\a4\a4e6922f48c28e645b166a6e87c82b19.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+    projectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a7\a792c98929d502543971d5123dd91d12.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a7\a792c98929d502543971d5123dd91d12.info
+    projectPath: Library\metadata\a7\a792c98929d502543971d5123dd91d12.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    projectPath: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\aa\aa588f75104cb8042acf31263cd73619
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\aa\aa588f75104cb8042acf31263cd73619
+    projectPath: Library\metadata\aa\aa588f75104cb8042acf31263cd73619
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\aa\aa588f75104cb8042acf31263cd73619.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\aa\aa588f75104cb8042acf31263cd73619.info
+    projectPath: Library\metadata\aa\aa588f75104cb8042acf31263cd73619.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\aa\aaeedb2a45100ea4091935025fdd110d
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\aa\aaeedb2a45100ea4091935025fdd110d
+    projectPath: Library\metadata\aa\aaeedb2a45100ea4091935025fdd110d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\aa\aaeedb2a45100ea4091935025fdd110d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\aa\aaeedb2a45100ea4091935025fdd110d.info
+    projectPath: Library\metadata\aa\aaeedb2a45100ea4091935025fdd110d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ab\abd622d2bf74c4a4f8f8d77697672913.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ab\abd622d2bf74c4a4f8f8d77697672913.info
+    projectPath: Library\metadata\ab\abd622d2bf74c4a4f8f8d77697672913.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ab\abda86a92826ad74f8b3f4b1ab326acc.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ab\abda86a92826ad74f8b3f4b1ab326acc.info
+    projectPath: Library\metadata\ab\abda86a92826ad74f8b3f4b1ab326acc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ac\ac59d41bde6224c4089a0cfbf902d645
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ac\ac59d41bde6224c4089a0cfbf902d645
+    projectPath: Library\metadata\ac\ac59d41bde6224c4089a0cfbf902d645
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ac\ac59d41bde6224c4089a0cfbf902d645.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ac\ac59d41bde6224c4089a0cfbf902d645.info
+    projectPath: Library\metadata\ac\ac59d41bde6224c4089a0cfbf902d645.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ad\ad6611d95a9ac7d45bc4da137220780c
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ad\ad6611d95a9ac7d45bc4da137220780c
+    projectPath: Library\metadata\ad\ad6611d95a9ac7d45bc4da137220780c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ad\ad6611d95a9ac7d45bc4da137220780c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ad\ad6611d95a9ac7d45bc4da137220780c.info
+    projectPath: Library\metadata\ad\ad6611d95a9ac7d45bc4da137220780c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ae\ae9314f65922b7b42b043064aeaaa155
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ae\ae9314f65922b7b42b043064aeaaa155
+    projectPath: Library\metadata\ae\ae9314f65922b7b42b043064aeaaa155
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ae\ae9314f65922b7b42b043064aeaaa155.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ae\ae9314f65922b7b42b043064aeaaa155.info
+    projectPath: Library\metadata\ae\ae9314f65922b7b42b043064aeaaa155.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b0\b006dd3bb62abd14a83157791fb647ec.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b0\b006dd3bb62abd14a83157791fb647ec.info
+    projectPath: Library\metadata\b0\b006dd3bb62abd14a83157791fb647ec.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b0\b03d5f3f2eca98d48b2313818063bfc0
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b0\b03d5f3f2eca98d48b2313818063bfc0
+    projectPath: Library\metadata\b0\b03d5f3f2eca98d48b2313818063bfc0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b0\b03d5f3f2eca98d48b2313818063bfc0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b0\b03d5f3f2eca98d48b2313818063bfc0.info
+    projectPath: Library\metadata\b0\b03d5f3f2eca98d48b2313818063bfc0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b0\b0a70fd5b6152d34d93eeeb307e133f2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b0\b0a70fd5b6152d34d93eeeb307e133f2.info
+    projectPath: Library\metadata\b0\b0a70fd5b6152d34d93eeeb307e133f2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b0\b0cb6d5647672b541a5f641672a0cc18.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b0\b0cb6d5647672b541a5f641672a0cc18.info
+    projectPath: Library\metadata\b0\b0cb6d5647672b541a5f641672a0cc18.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b1\b1ac97309f9bfea41b01f0b7ea373b58.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b1\b1ac97309f9bfea41b01f0b7ea373b58.info
+    projectPath: Library\metadata\b1\b1ac97309f9bfea41b01f0b7ea373b58.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b2\b2d48f69e426f3c41b473408129c689b
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b2\b2d48f69e426f3c41b473408129c689b
+    projectPath: Library\metadata\b2\b2d48f69e426f3c41b473408129c689b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b2\b2d48f69e426f3c41b473408129c689b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b2\b2d48f69e426f3c41b473408129c689b.info
+    projectPath: Library\metadata\b2\b2d48f69e426f3c41b473408129c689b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b2\b2f590637bb1b5044877c0b3e9db9094
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b2\b2f590637bb1b5044877c0b3e9db9094
+    projectPath: Library\metadata\b2\b2f590637bb1b5044877c0b3e9db9094
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b2\b2f590637bb1b5044877c0b3e9db9094.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b2\b2f590637bb1b5044877c0b3e9db9094.info
+    projectPath: Library\metadata\b2\b2f590637bb1b5044877c0b3e9db9094.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b3\b3b5395afc760c04da69a48b948d6525.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b3\b3b5395afc760c04da69a48b948d6525.info
+    projectPath: Library\metadata\b3\b3b5395afc760c04da69a48b948d6525.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+    projectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b6\b6385e9b7f575eb4a9fbe57f3aa1c9ef.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b6\b6385e9b7f575eb4a9fbe57f3aa1c9ef.info
+    projectPath: Library\metadata\b6\b6385e9b7f575eb4a9fbe57f3aa1c9ef.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b8\b82da7b737aae9042836619304e92905.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\b8\b82da7b737aae9042836619304e92905.info
+    projectPath: Library\metadata\b8\b82da7b737aae9042836619304e92905.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ba\ba649581e7ae3f54a9892d5967eaaf4a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ba\ba649581e7ae3f54a9892d5967eaaf4a.info
+    projectPath: Library\metadata\ba\ba649581e7ae3f54a9892d5967eaaf4a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bb\bba0acb555465444a943f2e809f686f7.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bb\bba0acb555465444a943f2e809f686f7.info
+    projectPath: Library\metadata\bb\bba0acb555465444a943f2e809f686f7.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    projectPath: Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bc\bc00e25696e4132499f56528d3fed2e3.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bc\bc00e25696e4132499f56528d3fed2e3.info
+    projectPath: Library\metadata\bc\bc00e25696e4132499f56528d3fed2e3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bc\bc571f4d55bfe8946a7f706439a53a1f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bc\bc571f4d55bfe8946a7f706439a53a1f.info
+    projectPath: Library\metadata\bc\bc571f4d55bfe8946a7f706439a53a1f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bc\bc7c26d9e5732fb4e9694d56f647dd27
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bc\bc7c26d9e5732fb4e9694d56f647dd27
+    projectPath: Library\metadata\bc\bc7c26d9e5732fb4e9694d56f647dd27
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bc\bc7c26d9e5732fb4e9694d56f647dd27.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bc\bc7c26d9e5732fb4e9694d56f647dd27.info
+    projectPath: Library\metadata\bc\bc7c26d9e5732fb4e9694d56f647dd27.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bc\bcca84a2658e08241be17e9ed78e7453
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bc\bcca84a2658e08241be17e9ed78e7453
+    projectPath: Library\metadata\bc\bcca84a2658e08241be17e9ed78e7453
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bc\bcca84a2658e08241be17e9ed78e7453.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bc\bcca84a2658e08241be17e9ed78e7453.info
+    projectPath: Library\metadata\bc\bcca84a2658e08241be17e9ed78e7453.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bd\bd09b17863ebbf74c82083bf72572ff1
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bd\bd09b17863ebbf74c82083bf72572ff1
+    projectPath: Library\metadata\bd\bd09b17863ebbf74c82083bf72572ff1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bd\bd09b17863ebbf74c82083bf72572ff1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bd\bd09b17863ebbf74c82083bf72572ff1.info
+    projectPath: Library\metadata\bd\bd09b17863ebbf74c82083bf72572ff1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bf\bff761b7e096ac849bedb4d802539ce6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\bf\bff761b7e096ac849bedb4d802539ce6.info
+    projectPath: Library\metadata\bf\bff761b7e096ac849bedb4d802539ce6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c4\c421f6023c85c174bb30a1fcf090af7c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c4\c421f6023c85c174bb30a1fcf090af7c.info
+    projectPath: Library\metadata\c4\c421f6023c85c174bb30a1fcf090af7c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c5\c50b7926dfc877a4181e893febe49a7e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c5\c50b7926dfc877a4181e893febe49a7e.info
+    projectPath: Library\metadata\c5\c50b7926dfc877a4181e893febe49a7e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c5\c52450844cbe82d4b8e23d3c84431f3c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c5\c52450844cbe82d4b8e23d3c84431f3c.info
+    projectPath: Library\metadata\c5\c52450844cbe82d4b8e23d3c84431f3c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c7\c7b7ca10b0f0c8746a0a8d66fb10fa57
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c7\c7b7ca10b0f0c8746a0a8d66fb10fa57
+    projectPath: Library\metadata\c7\c7b7ca10b0f0c8746a0a8d66fb10fa57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c7\c7b7ca10b0f0c8746a0a8d66fb10fa57.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c7\c7b7ca10b0f0c8746a0a8d66fb10fa57.info
+    projectPath: Library\metadata\c7\c7b7ca10b0f0c8746a0a8d66fb10fa57.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c8\c86cb7dd3b68e2a40a6205641e36bf97.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c8\c86cb7dd3b68e2a40a6205641e36bf97.info
+    projectPath: Library\metadata\c8\c86cb7dd3b68e2a40a6205641e36bf97.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c9\c98458455be827c41a2536fc1affd2e8
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c9\c98458455be827c41a2536fc1affd2e8
+    projectPath: Library\metadata\c9\c98458455be827c41a2536fc1affd2e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c9\c98458455be827c41a2536fc1affd2e8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c9\c98458455be827c41a2536fc1affd2e8.info
+    projectPath: Library\metadata\c9\c98458455be827c41a2536fc1affd2e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+    projectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ca\cae965229ed2dc64396613399ba974d4.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ca\cae965229ed2dc64396613399ba974d4.info
+    projectPath: Library\metadata\ca\cae965229ed2dc64396613399ba974d4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    projectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    projectPath: Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cd72e7e23411c104d9c529ec92b2b719.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\cd\cd72e7e23411c104d9c529ec92b2b719.info
+    projectPath: Library\metadata\cd\cd72e7e23411c104d9c529ec92b2b719.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cdfac2fb993f54247a260996eca3e07b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\cd\cdfac2fb993f54247a260996eca3e07b.info
+    projectPath: Library\metadata\cd\cdfac2fb993f54247a260996eca3e07b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ce\ce10802fb73da18439a79c6d38bc6e25.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ce\ce10802fb73da18439a79c6d38bc6e25.info
+    projectPath: Library\metadata\ce\ce10802fb73da18439a79c6d38bc6e25.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+    projectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ce\ce4ff17ca867d2b48b5c8a4181611901.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ce\ce4ff17ca867d2b48b5c8a4181611901.info
+    projectPath: Library\metadata\ce\ce4ff17ca867d2b48b5c8a4181611901.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cf\cf131dceb9cccb84298de5dfc8f16161.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\cf\cf131dceb9cccb84298de5dfc8f16161.info
+    projectPath: Library\metadata\cf\cf131dceb9cccb84298de5dfc8f16161.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d0\d0088e45804523549867166fd4706b95.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d0\d0088e45804523549867166fd4706b95.info
+    projectPath: Library\metadata\d0\d0088e45804523549867166fd4706b95.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d1\d11b72c7d1cbeff4e8ff9794cdb5f062.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d1\d11b72c7d1cbeff4e8ff9794cdb5f062.info
+    projectPath: Library\metadata\d1\d11b72c7d1cbeff4e8ff9794cdb5f062.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d1\d1a39f9a5dcebb343b003dbf2caf1d63.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d1\d1a39f9a5dcebb343b003dbf2caf1d63.info
+    projectPath: Library\metadata\d1\d1a39f9a5dcebb343b003dbf2caf1d63.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d2\d20f8ae06bad985408648387f6563803.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d2\d20f8ae06bad985408648387f6563803.info
+    projectPath: Library\metadata\d2\d20f8ae06bad985408648387f6563803.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d2\d2e0e8a83d787c341a2bcf7afe475d42.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d2\d2e0e8a83d787c341a2bcf7afe475d42.info
+    projectPath: Library\metadata\d2\d2e0e8a83d787c341a2bcf7afe475d42.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d3\d355c2656cec21d428c3044a15782656.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d3\d355c2656cec21d428c3044a15782656.info
+    projectPath: Library\metadata\d3\d355c2656cec21d428c3044a15782656.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d4\d45f3a5ed658dd94c84d67c87ca91578.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d4\d45f3a5ed658dd94c84d67c87ca91578.info
+    projectPath: Library\metadata\d4\d45f3a5ed658dd94c84d67c87ca91578.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d5\d54615edf0dff724283f00321f5981f0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d5\d54615edf0dff724283f00321f5981f0.info
+    projectPath: Library\metadata\d5\d54615edf0dff724283f00321f5981f0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d6\d6caea8253c81d34bb7c579c61127646.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d6\d6caea8253c81d34bb7c579c61127646.info
+    projectPath: Library\metadata\d6\d6caea8253c81d34bb7c579c61127646.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d7\d734e0f1e8152164f912667b484f1bb9
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d7\d734e0f1e8152164f912667b484f1bb9
+    projectPath: Library\metadata\d7\d734e0f1e8152164f912667b484f1bb9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d7\d734e0f1e8152164f912667b484f1bb9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d7\d734e0f1e8152164f912667b484f1bb9.info
+    projectPath: Library\metadata\d7\d734e0f1e8152164f912667b484f1bb9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d8\d8920ac2ca276b7499ac8c00bdf5fbc8.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d8\d8920ac2ca276b7499ac8c00bdf5fbc8.info
+    projectPath: Library\metadata\d8\d8920ac2ca276b7499ac8c00bdf5fbc8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d8\d8f4052b91b762347b808acd0daef4a9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d8\d8f4052b91b762347b808acd0daef4a9.info
+    projectPath: Library\metadata\d8\d8f4052b91b762347b808acd0daef4a9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d8\d8f48f6b71290cc4c90811f5f54d2ab1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d8\d8f48f6b71290cc4c90811f5f54d2ab1.info
+    projectPath: Library\metadata\d8\d8f48f6b71290cc4c90811f5f54d2ab1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d9\d9231772b24d50949a6b6e05c5dd25f1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d9\d9231772b24d50949a6b6e05c5dd25f1.info
+    projectPath: Library\metadata\d9\d9231772b24d50949a6b6e05c5dd25f1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d9\d983243af5da64f49a93a7a2ec62f721.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\d9\d983243af5da64f49a93a7a2ec62f721.info
+    projectPath: Library\metadata\d9\d983243af5da64f49a93a7a2ec62f721.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\da\da10c0ded77b4284e9101c1ef05e3f2d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\da\da10c0ded77b4284e9101c1ef05e3f2d.info
+    projectPath: Library\metadata\da\da10c0ded77b4284e9101c1ef05e3f2d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\db\db3b42d38dcb41147b9a270dec49a21b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\db\db3b42d38dcb41147b9a270dec49a21b.info
+    projectPath: Library\metadata\db\db3b42d38dcb41147b9a270dec49a21b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\db\db90ebe75a417854aaaf8a09147e7676
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\db\db90ebe75a417854aaaf8a09147e7676
+    projectPath: Library\metadata\db\db90ebe75a417854aaaf8a09147e7676
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\db\db90ebe75a417854aaaf8a09147e7676.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\db\db90ebe75a417854aaaf8a09147e7676.info
+    projectPath: Library\metadata\db\db90ebe75a417854aaaf8a09147e7676.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\db\dbcf8adae110cf149bc70c9a2fb45683.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\db\dbcf8adae110cf149bc70c9a2fb45683.info
+    projectPath: Library\metadata\db\dbcf8adae110cf149bc70c9a2fb45683.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\dc\dcca16ec28ac4b44aa6543de547345bb.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\dc\dcca16ec28ac4b44aa6543de547345bb.info
+    projectPath: Library\metadata\dc\dcca16ec28ac4b44aa6543de547345bb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\dd\dd63c090f4a9ca84a90829fa533a1889.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\dd\dd63c090f4a9ca84a90829fa533a1889.info
+    projectPath: Library\metadata\dd\dd63c090f4a9ca84a90829fa533a1889.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\dd\ddc8c45e4ad44ac4b97855d23d3ecdd2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\dd\ddc8c45e4ad44ac4b97855d23d3ecdd2.info
+    projectPath: Library\metadata\dd\ddc8c45e4ad44ac4b97855d23d3ecdd2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\de\de53374949c380a43831cdf100ac633d.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\de\de53374949c380a43831cdf100ac633d.info
+    projectPath: Library\metadata\de\de53374949c380a43831cdf100ac633d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\df\df1666880554cd446af9d788cc7a7a19
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\df\df1666880554cd446af9d788cc7a7a19
+    projectPath: Library\metadata\df\df1666880554cd446af9d788cc7a7a19
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\df\df1666880554cd446af9d788cc7a7a19.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\df\df1666880554cd446af9d788cc7a7a19.info
+    projectPath: Library\metadata\df\df1666880554cd446af9d788cc7a7a19.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e0\e0cc69ea3f7774e45a5a93983c35eca6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e0\e0cc69ea3f7774e45a5a93983c35eca6.info
+    projectPath: Library\metadata\e0\e0cc69ea3f7774e45a5a93983c35eca6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e2\e26192968d537f143a47e72dfefb548f
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e2\e26192968d537f143a47e72dfefb548f
+    projectPath: Library\metadata\e2\e26192968d537f143a47e72dfefb548f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e2\e26192968d537f143a47e72dfefb548f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e2\e26192968d537f143a47e72dfefb548f.info
+    projectPath: Library\metadata\e2\e26192968d537f143a47e72dfefb548f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e2\e287253ea90ccd04fb310bdbe13c1550
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e2\e287253ea90ccd04fb310bdbe13c1550
+    projectPath: Library\metadata\e2\e287253ea90ccd04fb310bdbe13c1550
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e2\e287253ea90ccd04fb310bdbe13c1550.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e2\e287253ea90ccd04fb310bdbe13c1550.info
+    projectPath: Library\metadata\e2\e287253ea90ccd04fb310bdbe13c1550.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e3\e3d83589f1e2bac489f8480b61dd2908.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e3\e3d83589f1e2bac489f8480b61dd2908.info
+    projectPath: Library\metadata\e3\e3d83589f1e2bac489f8480b61dd2908.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e4\e45f79867376940b7ba31502238d8efa.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e4\e45f79867376940b7ba31502238d8efa.info
+    projectPath: Library\metadata\e4\e45f79867376940b7ba31502238d8efa.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e4\e45f8df08739d7943b5b19c2fd4dfcb1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e4\e45f8df08739d7943b5b19c2fd4dfcb1.info
+    projectPath: Library\metadata\e4\e45f8df08739d7943b5b19c2fd4dfcb1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e5\e555eb3394ab79346a0c17a98c89c9fe.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e5\e555eb3394ab79346a0c17a98c89c9fe.info
+    projectPath: Library\metadata\e5\e555eb3394ab79346a0c17a98c89c9fe.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e5\e5a36a49f7e66f9438772de96f10495c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e5\e5a36a49f7e66f9438772de96f10495c.info
+    projectPath: Library\metadata\e5\e5a36a49f7e66f9438772de96f10495c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e8\e82e7ed6a84cc6740b35f4cc13493d66.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e8\e82e7ed6a84cc6740b35f4cc13493d66.info
+    projectPath: Library\metadata\e8\e82e7ed6a84cc6740b35f4cc13493d66.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e8\e83052825161ca9489eb21555ff606d9
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e8\e83052825161ca9489eb21555ff606d9
+    projectPath: Library\metadata\e8\e83052825161ca9489eb21555ff606d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e8\e83052825161ca9489eb21555ff606d9.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e8\e83052825161ca9489eb21555ff606d9.info
+    projectPath: Library\metadata\e8\e83052825161ca9489eb21555ff606d9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e8\e8e3d84b4df91a24892ed822cd330e12.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\e8\e8e3d84b4df91a24892ed822cd330e12.info
+    projectPath: Library\metadata\e8\e8e3d84b4df91a24892ed822cd330e12.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ea\ea65a302fdcb31f4a85e3a7fbbb82db0
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ea\ea65a302fdcb31f4a85e3a7fbbb82db0
+    projectPath: Library\metadata\ea\ea65a302fdcb31f4a85e3a7fbbb82db0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ea\ea65a302fdcb31f4a85e3a7fbbb82db0.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ea\ea65a302fdcb31f4a85e3a7fbbb82db0.info
+    projectPath: Library\metadata\ea\ea65a302fdcb31f4a85e3a7fbbb82db0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\eb\eb523bd2fd654e74d9674bc7998f223b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\eb\eb523bd2fd654e74d9674bc7998f223b.info
+    projectPath: Library\metadata\eb\eb523bd2fd654e74d9674bc7998f223b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\eb\eb6a9e1981932144d8dfe0055c6c90f1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\eb\eb6a9e1981932144d8dfe0055c6c90f1.info
+    projectPath: Library\metadata\eb\eb6a9e1981932144d8dfe0055c6c90f1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ec\ec2a6eb55d6bac64f8e60e43c3cb20ad.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ec\ec2a6eb55d6bac64f8e60e43c3cb20ad.info
+    projectPath: Library\metadata\ec\ec2a6eb55d6bac64f8e60e43c3cb20ad.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ed\ed7795f4883cb97468521311f1be4e22.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ed\ed7795f4883cb97468521311f1be4e22.info
+    projectPath: Library\metadata\ed\ed7795f4883cb97468521311f1be4e22.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ed\eded3844e29c2ec40bc278e2cbd31279.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ed\eded3844e29c2ec40bc278e2cbd31279.info
+    projectPath: Library\metadata\ed\eded3844e29c2ec40bc278e2cbd31279.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ee\ee4db12e22efd5f4cb56300fbccda30f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ee\ee4db12e22efd5f4cb56300fbccda30f.info
+    projectPath: Library\metadata\ee\ee4db12e22efd5f4cb56300fbccda30f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ee\eefc63b3000452840a357898d3ae1fc6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\ee\eefc63b3000452840a357898d3ae1fc6.info
+    projectPath: Library\metadata\ee\eefc63b3000452840a357898d3ae1fc6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f0\f07647ef9812e524baa760c8dd22d8ea.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f0\f07647ef9812e524baa760c8dd22d8ea.info
+    projectPath: Library\metadata\f0\f07647ef9812e524baa760c8dd22d8ea.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6.info
+    projectPath: Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f4\f4361284dc70ab044b5b3d136b00d8d1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f4\f4361284dc70ab044b5b3d136b00d8d1.info
+    projectPath: Library\metadata\f4\f4361284dc70ab044b5b3d136b00d8d1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f4\f4b6d9b5cf2500e419d8cb4fb82a84eb.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f4\f4b6d9b5cf2500e419d8cb4fb82a84eb.info
+    projectPath: Library\metadata\f4\f4b6d9b5cf2500e419d8cb4fb82a84eb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f5\f5d9b99d4099af548a4914382db262a2.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f5\f5d9b99d4099af548a4914382db262a2.info
+    projectPath: Library\metadata\f5\f5d9b99d4099af548a4914382db262a2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f5\f5ec2da5868a6014585976d38ac24951.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f5\f5ec2da5868a6014585976d38ac24951.info
+    projectPath: Library\metadata\f5\f5ec2da5868a6014585976d38ac24951.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f5\f5f68d4bdbd7d1a4496320d4d8da058f.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f5\f5f68d4bdbd7d1a4496320d4d8da058f.info
+    projectPath: Library\metadata\f5\f5f68d4bdbd7d1a4496320d4d8da058f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f7\f701747214874ac46a0c4ac184b53cb1
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f7\f701747214874ac46a0c4ac184b53cb1
+    projectPath: Library\metadata\f7\f701747214874ac46a0c4ac184b53cb1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f7\f701747214874ac46a0c4ac184b53cb1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f7\f701747214874ac46a0c4ac184b53cb1.info
+    projectPath: Library\metadata\f7\f701747214874ac46a0c4ac184b53cb1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f7\f7c4d057f1187c64bad50c0d179a5f39.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f7\f7c4d057f1187c64bad50c0d179a5f39.info
+    projectPath: Library\metadata\f7\f7c4d057f1187c64bad50c0d179a5f39.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fa\fab106c77e99e5e4aa5240e0900692ab.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fa\fab106c77e99e5e4aa5240e0900692ab.info
+    projectPath: Library\metadata\fa\fab106c77e99e5e4aa5240e0900692ab.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fa\fafae49f08dbf0b4c82fbf9d5efda973
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fa\fafae49f08dbf0b4c82fbf9d5efda973
+    projectPath: Library\metadata\fa\fafae49f08dbf0b4c82fbf9d5efda973
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fa\fafae49f08dbf0b4c82fbf9d5efda973.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fa\fafae49f08dbf0b4c82fbf9d5efda973.info
+    projectPath: Library\metadata\fa\fafae49f08dbf0b4c82fbf9d5efda973.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fb\fb95a00c7ea2ea749aab701495f4639a.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fb\fb95a00c7ea2ea749aab701495f4639a.info
+    projectPath: Library\metadata\fb\fb95a00c7ea2ea749aab701495f4639a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fb\fbd4bad2f7f54f34ba8a17451620803b
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fb\fbd4bad2f7f54f34ba8a17451620803b
+    projectPath: Library\metadata\fb\fbd4bad2f7f54f34ba8a17451620803b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fb\fbd4bad2f7f54f34ba8a17451620803b.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fb\fbd4bad2f7f54f34ba8a17451620803b.info
+    projectPath: Library\metadata\fb\fbd4bad2f7f54f34ba8a17451620803b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fb\fbe3b40107ec370468ffa5062af311ea.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fb\fbe3b40107ec370468ffa5062af311ea.info
+    projectPath: Library\metadata\fb\fbe3b40107ec370468ffa5062af311ea.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fc\fc305dbff5e3d204b97bb1763bb4945e.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fc\fc305dbff5e3d204b97bb1763bb4945e.info
+    projectPath: Library\metadata\fc\fc305dbff5e3d204b97bb1763bb4945e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fc\fc90e17d74bdc4d419f9ce04d02aedb1.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fc\fc90e17d74bdc4d419f9ce04d02aedb1.info
+    projectPath: Library\metadata\fc\fc90e17d74bdc4d419f9ce04d02aedb1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fd\fd5df1c9f0ab41e468cfbd105c0e0a8c.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fd\fd5df1c9f0ab41e468cfbd105c0e0a8c.info
+    projectPath: Library\metadata\fd\fd5df1c9f0ab41e468cfbd105c0e0a8c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fd\fd86dd3bb815de54fb8f5d719048bc69
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fd\fd86dd3bb815de54fb8f5d719048bc69
+    projectPath: Library\metadata\fd\fd86dd3bb815de54fb8f5d719048bc69
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fd\fd86dd3bb815de54fb8f5d719048bc69.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fd\fd86dd3bb815de54fb8f5d719048bc69.info
+    projectPath: Library\metadata\fd\fd86dd3bb815de54fb8f5d719048bc69.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fe\feb709d059d9c35459f2b5646d024310.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fe\feb709d059d9c35459f2b5646d024310.info
+    projectPath: Library\metadata\fe\feb709d059d9c35459f2b5646d024310.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -511,21 +3049,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -535,21 +3061,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -562,18 +3076,6 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -607,15 +3109,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\UnityProjectsGit\Unity-Appartment\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

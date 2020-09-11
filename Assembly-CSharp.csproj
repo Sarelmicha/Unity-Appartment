@@ -61,7 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraMotion.cs" />
+    <Compile Include="Assets\Scripts\CharacterMotion.cs" />
     <Compile Include="Assets\Scripts\DoorMotion.cs" />
+    <Compile Include="Assets\Scripts\TargetController.cs" />
     <Compile Include="Assets\Scripts\TriggerDoor.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/UnityProjectsGit/Unity-Appartment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
