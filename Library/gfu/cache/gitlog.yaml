@@ -13,9 +13,141 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-09-17T13:58:03.024+03:00
-  initializedAtString: 2020-09-17T13:58:03.024+03:00
+  lastUpdatedAtString: 2020-09-26T10:08:48.214+03:00
+  initializedAtString: 2020-09-26T10:08:48.214+03:00
   log:
+  - commitID: 0b9ecd7614cb0dcca87aeef7ced8137b8132a709
+    mergeA: 
+    mergeB: 
+    authorName: Sarel
+    authorEmail: sarelmicha93@gmail.com
+    commitEmail: sarelmicha93@gmail.com
+    commitName: Sarel
+    summary: Finsiehd project
+    description: 
+    timeString: 2020-09-17T14:09:31.000+03:00
+    commitTimeString: 2020-09-17T14:09:31.000+03:00
+    changes:
+    - path: Assets\3Dfrk\Frames with pictures\Materials\Paint_01.mat
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\3Dfrk\Frames with pictures\Materials\Paint_01.mat
+      projectPath: Assets\3Dfrk\Frames with pictures\Materials\Paint_01.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Resources.meta
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\download.jpg
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Resources\download.jpg
+      projectPath: Assets\Resources\download.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\download.jpg.meta
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Resources\download.jpg.meta
+      projectPath: Assets\Resources\download.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\75918c-mainStage.json
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\StateCache\Hierarchy\75918c-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\75918c-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\276b85-mainStage.json
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\StateCache\SceneView\276b85-mainStage.json
+      projectPath: Library\StateCache\SceneView\276b85-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
+      projectPath: Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 236a71685074704ca344747bb2d7c837e5954dd4
     mergeA: 
     mergeB: 

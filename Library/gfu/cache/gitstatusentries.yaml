@@ -13,33 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-09-17T14:07:28.343+03:00
-  initializedAtString: 2020-09-17T13:57:56.962+03:00
+  lastUpdatedAtString: 2020-09-26T10:16:37.120+03:00
+  initializedAtString: 2020-09-26T10:08:40.858+03:00
   entries:
-  - path: Assets\3Dfrk\Frames with pictures\Materials\Paint_01.mat
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\3Dfrk\Frames with pictures\Materials\Paint_01.mat
-    projectPath: Assets\3Dfrk\Frames with pictures\Materials\Paint_01.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Resources.meta
-    projectPath: Assets\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Resources\download.jpg
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Resources\download.jpg
-    projectPath: Assets\Resources\download.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Resources\download.jpg.meta
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Resources\download.jpg.meta
-    projectPath: Assets\Resources\download.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scenes\SampleScene.unity
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
@@ -61,12 +37,6 @@ MonoBehaviour:
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\expandedItems
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\expandedItems
-    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -106,18 +76,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
-    projectPath: Library\metadata\97\97923140cb419a1448fee6c0cbe7872e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -133,12 +91,6 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\276b85-mainStage.json
     fullPath: C:\UnityProjectsGit\Unity-Appartment\Library\StateCache\SceneView\276b85-mainStage.json
     projectPath: Library\StateCache\SceneView\276b85-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\UnityProjectsGit\Unity-Appartment\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
